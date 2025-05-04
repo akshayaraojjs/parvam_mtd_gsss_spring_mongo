@@ -29,6 +29,31 @@ List of Softwares which need to be downloaded:
 6) Notepad++ (Optional for taking notes):
     https://notepad-plus-plus.org/downloads/
 
+Git Commands:
+    To make a copy of remote repo(github repo) in your local system:
+        git clone "github repo url"
+        Ex: git clone "https://github.com/akshayaraojjs/parvam_mtd_gsss_spring_mongo.git"
+        
+    Then add the files which need to be added or pushed in the github repo
+
+    Then check the status:
+        git status
+
+    Here you can see the files in red color which means that they are unstaged files or untracked files
+
+    Then you need to add the files:
+        git add "filename" (single file)
+        git add . (for all the files)
+    
+    Again check for the status:
+        git status
+
+    Then give the message with commit:
+        git commit -m "Relevant message for the future reference"
+
+    Then you need to push the source from local repo to github or remote repo:
+        git push origin main
+
 Co-ordination Instructions:
 -> Take Daily Feedback from the students.
 -> Conduct Daily Assessment to the students by sharing the google forms url.
