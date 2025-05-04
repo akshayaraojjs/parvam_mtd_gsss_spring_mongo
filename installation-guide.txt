@@ -1,0 +1,29 @@
+List of Softwares which need to be downloaded:
+1) VS Code:
+    https://code.visualstudio.com/download
+
+2) Eclipse Installer:
+    https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2025-03/R/eclipse-inst-jre-win64.exe
+    While installing Eclipse choose this option:
+    "Eclipse IDE for Java Developers"
+
+3) STS for Eclipse:
+    https://spring.io/tools
+    Choose the Spring Tools for Eclipse and download the appropriate installer
+
+4) Git:
+    https://git-scm.com/downloads
+
+5) MongoDB Community Server:
+    https://www.mongodb.com/try/download/community-kubernetes-operator
+    Choose MSI version for package
+
+    Mongo Compass(for GUI):
+    https://www.mongodb.com/try/download/compass
+
+    Mongo Shell(for CLI):
+    https://www.mongodb.com/try/download/compass
+    Choose MSI version for package
+
+6) Notepad++ (Optional for taking notes):
+    https://notepad-plus-plus.org/downloads/
