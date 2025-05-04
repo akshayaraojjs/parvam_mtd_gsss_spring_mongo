@@ -1,4 +1,5 @@
 List of Softwares which need to be downloaded:
+
 1) VS Code:
     https://code.visualstudio.com/download
 
@@ -27,3 +28,7 @@ List of Softwares which need to be downloaded:
 
 6) Notepad++ (Optional for taking notes):
     https://notepad-plus-plus.org/downloads/
+
+Co-ordination Instructions:
+-> Take Daily Feedback from the students.
+-> Conduct Daily Assessment to the students by sharing the google forms url.
