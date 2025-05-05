@@ -1,0 +1,307 @@
+HTML
+1. What is HTML?
+a) HTML describes the structure of a webpage
+b) HTML is the standard markup language mainly used to create web pages
+c) HTML consists of a set of elements that helps the browser how to view the content
+d) All of the mentioned
+Answer: d
+
+2) What does the <header> tag in HTML signify?
+a) The main content of the page
+b) The bottom section of the page
+c) Introductory content or a set of navigational links
+d) External CSS & JS links
+Answer: c
+
+3) What is the default display value of the <div> element?
+a) Inline
+b) Block
+c) Flex
+d) Inline-Block
+Answer: b
+
+4) What HTML element is used to define important text?
+a) <strong>
+b) <important>
+c) <highlight>
+d) <em>
+Answer: a
+
+5)What is the purpose of the <a> tag in HTML?
+a) Adds an image
+b) Creates a link
+c) Changes font color
+d) Adds a video
+Answer: b
+
+6)What is the correct syntax of doctype in HTML5?
+a) </doctype html>
+b) <doctype html>
+c) <doctype html!>
+d) <!doctype html>
+Answer: d
+
+7)In which part of the HTML metadata is contained?
+a) head tag
+b) title tag
+c) html tag
+d) body tag
+Answer: a
+----------------------------------------------------------------------------------------------
+JavaScript
+1) What is the keyword used to declare a constant in JavaScript?
+a) constant
+b) var
+c) let
+d) const
+Answer: d
+
+2) In ES6, how do you declare a block-scoped variable?
+a) const
+b) let
+c) var
+d) scope
+Answer: b
+
+3) What does Array.from() do in JavaScript?
+a) Copies elements from one array to another
+b) Creates an array from array-like objects
+c) Sorts an array
+d) Filters array elements
+Answer: b
+
+4) What is the purpose of map() in JavaScript?
+a) Iterates over an array and returns a new array
+b) Modifies each array element in place
+c) Iterates without returning anything
+d) Filters elements
+Answer: a
+
+5)What does the spread operator do?
+a) Slices an array
+b) Expands elements of an array
+c) Iterates an array
+d) Concatenates arrays
+Answer: b
+
+6)How do you declare a default parameter in ES6?
+a) function test(x = 5){}
+b) function test(x : 5){}
+c) function test(x => 5){}
+d) function test(x == 5){}
+Answer: a
+-------------------------------------------------------------------------------------------------------
+GitHub
+1. Which command is used to initialize a new Git repository?
+A) git init
+B) git start
+C) git create
+D) git new
+Answer: a
+
+2. What command stages all changes in your current directory for the next commit?
+A) git push
+B) git commit
+C) git add .
+D) git stage
+Answer: c
+
+3. Which command is used to upload local repository content to a remote repository?
+A) git fetch
+B) git push
+C) git upload
+D) git commit
+Answer: b
+
+4. What command creates a snapshot of your changes?
+A) git push
+B) git snapshot
+C) git save
+D) git commit
+Answer: D) git commit
+
+5. Which command shows the commit history for the current branch?
+A) git show
+B) git status
+C) git log
+D) git history
+Answer: c
+
+6. What does git clone do?
+A) Creates a new repository
+B) Copies a repository from GitHub to your local machine
+C) Uploads a local repository to GitHub
+D) Merges two branches
+Answer: b
+
+7. What command lists all local branches in your Git repository?
+A) git list
+B) git branch
+C) git branches
+D) git show-branch
+Answer: b 
+-------------------------------------------------------------------------------------------------------
+CSS
+1) Which CSS property is used to change the font of an element?
+a) text-style
+b) font-family
+c) font-weight
+d) font-style
+Answer: b
+
+2) In CSS, which property is used to control the space between elements?
+a) Spacing
+b) Margin
+c) Padding
+d) Space
+Answer: b
+
+3) What is the default display value of the <div> element?
+a) Inline
+b) Block
+c) Flex
+d) Inline-Block
+Answer: b
+
+4) Which of the following is a correct way to include an external CSS file in HTML?
+a) <script src="style.css">
+b) <link href="style.css">
+c) <link rel="stylesheet" href="style.css">
+d) <css file="style.css">
+Answer: c
+
+5) In CSS, which property is used to control the space between elements?
+a) Spacing
+b) Margin
+c) Padding
+d) Space
+Answer: b
+
+6) What does the display: flex; property do?
+a) Changes element position
+b) Aligns children of the element in a flexible container
+c) Hides the element
+d) Adds a shadow to the element
+Answer: b
+
+7) What does the <header> tag in HTML signify?
+a) The main content of the page
+b) The bottom section of the page
+c) Introductory content or a set of navigational links
+d) External CSS & JS links
+Answer: c
+-------------------------------------------------------------------------
+Bootstrap
+1) What is the default grid system in Bootstrap?
+a) 8 columns
+b) 12 columns
+c) 16 columns
+d) 24 columns
+Answer: b
+
+2) Which Bootstrap class is used to create a large button?
+a) btn-lg
+b) btn-big
+c) btn-large
+d) btn-wide
+Answer: a
+
+3) In Bootstrap, which class is used to add rounded corners to an image?
+a) img-rounded
+b) rounded
+c) img-circle
+d) circle-img
+Answer: b
+
+4) Which Bootstrap class hides an element on small screens only?
+a) d-none d-sm-block
+b) d-hide
+c) d-none d-md-block
+d) d-hide-md
+Answer: a
+
+5) What is the function of align-items-center in Bootstrap flexbox?
+a) Align items to the left
+b) Align items to the right
+c) Center items vertically
+d) Center items horizontally
+Answer: c
+
+6) Which Bootstrap class is used for a justified navigation bar?
+a) navbar-justify
+b) justify-content-between
+c) navbar-centered
+d) nav-justify
+Answer: b
+
+7) Which class is used to make an image responsive in Bootstrap?
+a) img-responsive
+b) img-fluid
+c) img-auto
+d) img-resize
+Answer: b
+----------------------------------------------------------------------------------------
+MongoDB
+
+1) Which of the following best describes MongoDB?
+a) Relational database
+b) In-memory database
+c) Document-oriented database
+d) Graph database
+Answer: c
+
+2) In MongoDB, what is a collection?
+a) A set of related databases
+b) A group of JSON documents
+c) A single document
+d) A field in a document
+Answer: b
+
+3) What does a MongoDB document primarily consist of?
+a) A set of collections
+b) Key-value pairs
+c) Tables and rows
+d) None of the above
+Answer: b
+
+4) Which format does MongoDB use to store data?
+a) JSON
+b) CSV
+c) BSON
+d) XML
+Answer: c
+
+5) Which of the following is used to remove a collection in MongoDB?
+a) db.collection.delete()
+b) db.collection.drop()
+c) db.dropCollection(collection_name)
+d) db.remove(collection_name)
+Answer: b
+
+
+6) In MongoDB, each document requires a unique identifier. What is this identifier called?
+a) UUID
+b) ObjectID
+c) documentID
+d) PrimaryKey
+Answer: b
+
+7) Which MongoDB operator is used for a logical AND operation?
+a) $or
+b) $and
+c) $all
+d) $in
+Answer: b
+
+8) What command is used to display all databases in MongoDB?
+a) db.showDatabases()
+b) show dbs
+c) dbs
+d) show databases
+Answer: b
+
+
+
+
+
+
